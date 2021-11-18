@@ -1,13 +1,13 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6329341&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+This educational technology plan provides an overview of the software, hardware, and resources needed to implement Integrated Math 1 with Computing & Robotics in the 2022-2023 academic year. This plan also describes the context in which this course will be offered, the cost of implementation, instructional approach and strategies, as well as the resiliency plan in place should the school site need to shift between in-person, virtual, and hybrid learning.
 
 ## Context
 
 ### Course
 
-Describe your course including the name, description, and grade level
+Integrated Math 1 with Computing & Robotics was developed in collaboration among teachers and the UC Davis C-STEM Center. The course has already been A-G approved.
 
 ### Situation
 
