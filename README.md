@@ -1,42 +1,44 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6329341&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-This educational technology plan provides an overview of the software, hardware, and resources needed to implement Integrated Math 1 with Computing & Robotics in the 2022-2023 academic year. This plan also describes the context in which this course will be offered, the cost of implementation, instructional approach and strategies, as well as the resiliency plan in place should the school site need to shift between in-person, virtual, and hybrid learning.
+This educational technology plan provides an overview of the software, hardware, and resources needed to implement Integrated Math 1 with Computing & Robotics in the 2022-2023 academic year, including the context in which this course will be offered, instructional approach and strategies, as well as a resiliency plan should the school site need to shift between in-person, virtual, and hybrid learning.
 
 ## Context
 
 ### Course
 
-Integrated Math 1 with Computing & Robotics was developed in collaboration among teachers and the UC Davis C-STEM Center. The course has already been A-G approved.
+Integrated Math 1 with Computing & Robotics was developed with collaboration among teachers and the UC Davis C-STEM Center. The course is A-G approved. The course guides students through the concepts included in the Integrated Math 1 Common Core State Standards and approaches the math content via C-based programming and robotics. The integration of math, programming, and robotics requires and encourages students to analyze real life situations, break down problems into steps that a computer program could follow in order to find solutions, plot and visualize various functions, graphs, and transformations, and solve robotics problems through mathematical modeling and programming.
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
+My students are enrolled in a charter high school independent study program tailored to individual students' needs. Most of the school's independent study, asynchronous courses are provided by the vendor Edgenuity but are then tailored, to an extent, by the school's curriculum coaches, subject area specialists, and instructors. Other courses are live, in-person, and synchronous, with class sizes ranging from six to twenty students per class. Other courses are live, virtual, and synchronous. Still other courses fall into the category of Career Technical Education (CTE) in such fields as medical, construction, culinary, automotive, welding, photography, studio and broadcasting, fire management, fitness, and fashion. Students collobarate with their independent study "teacher of record" to choose their courses and progress toward their high school diploma. Each student meets with their teacher of record for one three-hour period each week.
+
+The majority of the school's students qualify for free or reduced lunch and other support services. The school provides educational services as well as non-educational supports, such as academic counseling, individual counseling, group counseling, food bank services, clothing, and support for students who are parents. A key philosophy of the school is to connect first with students' hearts, expressing genuine care for each individual student first and building academic success upon the foundation of that caring.
+
+This math, computing, and robotics course serves several purposes. The hands-on, interactive aspect provides an opportunity for students to interact with math content, diverse technologies, and each other. Students being called upon to problem-solve and apply mathematical thinking is lacking in the independent study math courses, so this course fulfills that need for students to work collaboratively and creatively to use math and programming to solve problems and address challenges. Given how many of the students' courses are completed without much peer interaction, this course also addresses students' social needs. In addition, the robotics and programming projects are conducive to artistic applications, faciliting connection to graphic arts, studio and broadcasting, fashion, and construction. For example, one project entails producing a robot video, choreographing robots' movements, record audio and visuals, designing sets, and writing scripts.
+
+One constraint is that students will only meet in-person once or twice a week, either for one three-hour period or two ninety-minute periods. The remainder of the instruction and student interactions will be asychronous, with instruction provided via recorded tutorials and peer interactions facilitated using the Canvas learning management system (LMS), Desmos, Jamboard, and shared Google Suite applications. Every student already has been issued a Chromebook, and if students do not have reliable internet access at home, they are provided a hotspot, so students will have access to these asynchronous learning experiences.
+
+In addition to weekly in-person class meetings and asynchronous interactions with peers and the instructor, students also benefit from the support of their "teacher of record" who is each student's primary point of contact with the school. The teacher of this math course will interact directly with the students but will also communicate with each student's teacher of record, so each student will have at least two teachers supporting their success in this math, programming, and robotics class. This team approach helps students remain on-track with their coursework, even though students perform many course tasks independently.
 
 ## Plan
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+One key piece of software used in this course is the free, web-based RoboBlockly.org. This software provides options from which students and teachers can choose: drag-and-drop graphical blocks of of code (similar in style to Scratch) or a C-based language the C-STEM Center has dubbed "Ch." RoboBlockly also provides the ability to observe the movements of virtual robots, either on the coordinate plane or on any number of backgrounds, so students can control and analyze the movements of robots even when they're working from home without a physical robot. If programs are written using the graphical blocks, they can be converted to Ch that can be edited and run in a second piece of software, an IDE called ChIDE. There is the capability to post tutorials on the RoboBlocky website, but to streamline the experience for students, access to all activities, tutorials, and assignments will be initiated from the Canvas LMS. Even though students will be using RoboBlocky, Google Docs, Jamboards, Desmos, the goal is for the experience to feel unified and seamless.
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+Each student is issued an HP Chromebook 14A G5 running Version 93.0.4577.95 (Official Build) (64-bit). Reliable WiFi is provided at school sites at which students attend their weekly meeting with their teacher of record, as well as at the school site at which this course will be offered. Students lacking reliable web access at home are provided with WiFi hotspots.
+
+When this course meets in-person, students will bring their Chromebooks to class, but extra Chromebooks are available so that student have continued access if they forget their own device, run low on power, or experience technical difficulties. Twenty robots will be available during in-person class meetings so that each student will have their own and small groups of students can pool their robots to accomplish multi-robot tasks. The robots can be used singly or modularly, combined with snap connectors, different wheel sizes and configurations, different mobility configurations, and accessories that allow for the addition of pens, grabbers, scoops, and various sensors. Other useful supplies are mats printed with different challenge backgrounds and mats printed with grid patterns and the coordinate plane. 
 
 ### Application
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+During class, some instruction and interactions will focus on building students' understanding of math concepts. Other instruction and interactions will focus on programming, relating math concepts to programming, and analyzing how the movements of the robots and the output displayed on plotted graphs relates to the math. Likely, initial in-person programming assignments will be more directed, with intermediate and advanced programming challenges involving more divergent approaches. Once students gain familiarity with various graphical programming blocks, control structures, and the Ch IDE, initial introduction of topics will be made via recorded tutorials, with in-person meeting time devoted more exclusively to small group exploration of the mathematical concepts and programming and robotics applications and problem-solving. 
+
+Assessment and grading will balance the individual students' grasp of the math and programming concepts and the small group collaboration and problem-solving. During class, students will engage in pair programming, with students practicing different roles (driver, navigator) but also parallel programming, with students each having driving their own version of a program while also seeking the support and input from a partner or small group member. Since so much work will be done independently, asynchronously, outside of in-person class time, students will use Google Suite applications and Canvas discussion threads to share programming solutions between in-person meetings, as well as using Desmos, Google Suite applications, and Jamboards to develop and share their mathematical understandings.
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+The balance of individual work and collaborative, cooperative group work helps all students learn, as does the existing school structure of each student having a teacher of record in addition to their in-person and virtual "live" class teachers. In addition, universal access to technology (computers, internet, hotspots) makes the course materials physically accessible by all students. The teachers of record, live class teachers, paraeducators, and RSP teachers assist all students, including those with special needs, in accessing the content. Recorded tutorials, paired with live instruction and interaction, also facilitate equitable access, as students have the ability to interact in-person but also have access to course material when working independently, asynchronously. This structure has also shown itself to be resilient during the pandemic, as students and teachers needing to provide or access content online have been able to do so. The RoboBlockly web-based software and robot simulator has been valuable when it is not feasible or safe for groups of students or individual students to handle physical objects (such as physical robots). By already having a model that is a hybrid of independent study, virtual, live, synchronous, asynchronous, the school has been able to pivot fairly nimbly as situations change. The same is true due to using the Canvas LMS, Google Suite applications, web-based software, and already having Chromebooks issued to students.
